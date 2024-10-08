@@ -1,1 +1,1 @@
-# Sphere-Rendering-Ray-Tracing
+# Sphere Rendering Ray Tracing
